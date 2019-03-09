@@ -1,6 +1,6 @@
 gee-scripts
 ===========
-## Scripts Mosaic
+## The Mosaic Generation Methodology
 
 Script for creation of analytical mosaics Planet present in the Asset repository of the Nexgenmap project.
 
